@@ -9,3 +9,6 @@
 
 ## 3. branch "expanderJunior" - hw 3 | expander junior
 Дописати компонент expander, який почали писати на уроці
+
+## 4. branch "expanderMiddle" - hw 4 | expander middle 
+Написати expander list, початок якого було покладено на занятті 

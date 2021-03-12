@@ -1,0 +1,36 @@
+.expanderMainClass {
+  width: 100%;
+  height: 50px;
+  background-color: darkgrey;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.expander {
+  width: 101.5%;
+  height: 100px;
+  background-color: rgb(119, 119, 119);
+  display: block;
+}
+
+.none {
+  display: none;
+}
+
+.on {
+  width: 10px;
+  height: 10px;
+  border-radius: 10px;
+  background-color: greenyellow;
+}
+
+.off {
+  width: 10px;
+  height: 10px;
+  border-radius: 10px;
+  background-color: red;
+}
