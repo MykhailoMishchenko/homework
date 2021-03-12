@@ -1,0 +1,32 @@
+.expander {
+    padding: 25px;
+    background-color: bisque;
+    width: 100%;
+    height: 50px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    font-size: 25px;;
+}
+
+.expander-list {
+    width: 100%;
+    background-color: burlywood;
+    opacity: 0;
+    transform: scaleY(0);
+    transform-origin: 0 0;
+    transition: .2s ease-in;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    font-size: 25px;;
+}
+
+.active {
+    opacity: 1;
+    transform: scaleY(1);
+    transition: .3s ease-in;
+}
