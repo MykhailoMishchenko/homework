@@ -1,0 +1,88 @@
+.table {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+  
+    border: 1px solid black;
+  
+    position: relative;
+  }
+  
+  .circle {
+    width: 10px;
+    height: 10px;
+  
+    border-radius: 100%;
+  
+  
+    background-color: black;
+  
+    margin-right: 15px;
+  
+  }
+  
+  .active {
+    background-color: green;
+  }
+  
+  .remove {
+    background-color: red;
+  }
+  
+  .seldom {
+    background-color: tomato;
+  }
+  
+  .header-table {
+    width: 60%;
+    margin: auto;
+  
+    display: flex;
+    justify-content: space-around;
+  
+  
+    background-color: black;
+    color: white;
+  
+    z-index: 10;
+  }
+  
+  .header-table div {
+    width: 33%;
+  
+  
+    padding: 25px;
+  
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  
+  
+  .section-table {
+  
+    width: 33%;
+  
+    padding: 25px;
+  
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .container-table {
+    width: 60%;
+    margin: auto;
+  }
+
+  .checkbox {
+      width: 28%;
+      margin: auto;
+  }
