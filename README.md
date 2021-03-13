@@ -15,3 +15,6 @@
 
 ## 5. branch "HoverArea" - hw 5 | hover Area
 Виводити координати в компоненті area 
+
+## 6. branch "table" - hw 6 | table
+Реалізувати лист з чекбоксами (картинки в телеграмі)
