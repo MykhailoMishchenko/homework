@@ -14,15 +14,23 @@ code {
 
 h1 {
   text-align: center;
+  color: white;
 }
 
 .App {
   width: 90%;
+  height: 100vh;
   margin: auto;
-
   display: flex;
-  flex-direction: column;
+  justify-content: center;
   align-content: center;
   align-items: center;
-  justify-content: center;
 }
+
+.main {
+  width: 60%;
+  height: 50vh;
+  background-color: darkseagreen;
+  padding: 40px;
+}
+
