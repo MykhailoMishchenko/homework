@@ -18,3 +18,6 @@
 
 ## 6. branch "table" - hw 6 | table
 Реалізувати лист з чекбоксами (картинки в телеграмі)
+
+## 7. branch "semanticUI" - hw7 | Semantic dropdown
+Написати dropdown на функціональних компонентах, Дописати dropdown
