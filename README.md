@@ -12,3 +12,6 @@
 
 ## 4. branch "expanderMiddle" - hw 4 | expander middle
 Написати expander list, початок якого було покладено на занятті
+
+## 5. branch "HoverArea" - hw 5 | hover Area
+Виводити координати в компоненті area 
